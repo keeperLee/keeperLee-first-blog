@@ -9,8 +9,7 @@ author: JerryLee
 * content
 {:toc}
 以前一直没有接触过github，还有git，近段时间才开始研究这两者，不知不觉之间进入了一个全球最大的同性交流平台。
-
-
+作为第一篇在github Pages上写的博客，在此娱乐一下，带来几个小测验：
 ## 智力小测验
 > ##### 测验一：如何通过java来计算5的阶乘，50的阶乘呢？
 
@@ -39,10 +38,10 @@ author: JerryLee
   }
 
   public static void main(String[] args) {
-  	BigInteger s = BigInteger.valueOf(1);
-  	for(int i=1;i<=500;i++){
-  	   s = s.multiply(BigInteger.valueOf(i));
-  	}
-  	System.out.println(s);
-  }
+		BigDecimal s = BigDecimal.valueOf(1);
+		for(int i=1;i<=50;i++){
+			s = s.multiply(BigDecimal.valueOf(i));
+		}
+		System.out.println(s);
+	}
 ```
