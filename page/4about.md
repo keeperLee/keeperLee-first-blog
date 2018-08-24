@@ -27,6 +27,7 @@ type: page
 * [知乎](https://www.zhihu.com/people/Thomas-Jerry-Lee)
 
 
-## Comments
+## 关于博客
+本博客是基于jekyll和github Pages 搭建的，博客的主题来自于[HyG](https://github.com/Gaohaoyang)大神，感谢[HyG](https://github.com/Gaohaoyang)前辈的分享，大家如果喜欢可以前往他的博客fork fork.
 
 {% include comments.html %}
