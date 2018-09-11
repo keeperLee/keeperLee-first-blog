@@ -15,7 +15,7 @@ author: JerryLee
 
 计算5的阶乘有比较多的方法，这里使用递归的方式来处理：
 
-```js
+```java
   public static long jiecheng(int n){
     if(n==1)
       return 1;
