@@ -10,6 +10,10 @@ author: JerryLee
 {:toc}
 
 ## 1.wx.setStorageSync(同步的缓存)
+
+
+
+
 生成缓存：wx.setStorageSync('key',"helloworld")  
 修改缓存：wx.setStorageSync('key',"newworld")  
 清除缓存：  
