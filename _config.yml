@@ -33,7 +33,7 @@ disqus_shortname: jerrylee
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: 56e2a7de28a25b85b64244a1616772a0
+baidu_tongji_id: a36836c3df1802700d30c423b00280ca
 
 
 # Build settings
