@@ -25,14 +25,16 @@ h6 {
 }
 html {
     height: 100%;
+    background-image: url(../images/city.png);
+    background-attachment: fixed;
 }
 body {
     font-family: 'Helvetica Neue',Helvetica,Arial,'Microsoft YaHei',sans-serif;
     color: #333;
-    background-image: url(https://gw.alicdn.com/tfs/TB1xzbUumBYBeNjy0FeXXbnmFXa-125-121.png);
-    position: relative;
+    //background-image: url(https://gw.alicdn.com/tfs/TB1xzbUumBYBeNjy0FeXXbnmFXa-125-121.png);
+
     min-height: 100%;
-    padding-bottom: 190px;
+    //padding-bottom: 190px;
 }
 a {
     text-decoration: none;
