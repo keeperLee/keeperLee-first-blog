@@ -8,6 +8,10 @@ author: JerryLee
 * content
 {:toc}
 ## springboot启动方式一：
+
+
+
+
 (1)在官网配置好jar包，下载jar包。
 ![嘻嘻嘻](/images/springboot/springboot.png)
 (2)在STS中导入解压后的maven工程，这时可以去泡杯咖啡了，接着就是漫长的下载...
