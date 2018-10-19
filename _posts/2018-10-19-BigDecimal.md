@@ -49,7 +49,7 @@ public class BigDecimalTest {
 
 
 ```
-- test1的结果：精度就是严重：
+- test1的结果：精度丢失严重：
 ![嘻嘻嘻](/images/Util/1.png)  
 - test2虽然使用的是BigDecimal的构造器，但是始终有精度的丢失。
 ![嘻嘻嘻](/images/Util/2.png)  
