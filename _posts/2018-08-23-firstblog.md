@@ -3,7 +3,7 @@ layout: post
 title:  "来到github Pages的第一篇博客"
 categories: 记事
 tags: github
-author: JerryLee
+author: 李健
 ---
 
 * content
