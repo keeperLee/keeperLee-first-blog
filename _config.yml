@@ -7,7 +7,7 @@
 
 # Site settings
 title: 李健
-brief-intro: 清风一缕，晴空万里
+brief-intro: 往者不谏，来者可追
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://keeperLee.github.io" # the base hostname & protocol for your site
 
@@ -21,7 +21,7 @@ weibo_username: ThomasJerryLee
 zhihu_username: Thomas-Jerry-Lee
 
 
-description_footer: 本站记录我后端之旅的沿途风景！
+description_footer: 勿忘初心，我还年轻！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
