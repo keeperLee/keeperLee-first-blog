@@ -3,7 +3,7 @@ layout: post
 title:  "小程序Storage缓存"
 categories: 小程序
 tags: weChat  缓存
-author: 李健
+author: KeeperLee
 ---
 
 * content

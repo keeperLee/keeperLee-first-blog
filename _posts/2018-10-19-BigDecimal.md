@@ -3,7 +3,7 @@ layout: post
 title:  "浮点运算丢失精度问题"
 categories: JAVA
 tags: JAVA
-author: 李健
+author: KeeperLee
 ---
 * content
 {:toc}

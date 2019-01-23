@@ -3,7 +3,7 @@ layout: post
 title:  "秒杀项目的开发手册"
 categories: 记事
 tags: JAVA
-author: 李健
+author: KeeperLee
 ---
 * content
 {:toc}

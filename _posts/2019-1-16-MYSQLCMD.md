@@ -3,7 +3,7 @@ layout: post
 title:  "MySQL常用命令"
 categories: MySQL
 tags: MySQL
-author: 李健
+author: KeeperLee
 ---
 * content
 {:toc}
